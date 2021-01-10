@@ -65,3 +65,5 @@ function whatsTheRace(race: Race): string {
   }
 
   console.log(whatsTheRace(joshsCharacterRace))
+
+  console.log(cat)
